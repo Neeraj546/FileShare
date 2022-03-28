@@ -1,0 +1,3 @@
+php_value upload_max_filesize 40M
+php_value post_max_size 65M
+php_value max.executiontime 300
